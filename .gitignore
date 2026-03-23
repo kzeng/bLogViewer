@@ -51,3 +51,12 @@ ENV/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Large data files
+*.7z
+*.zip
+*.tar.gz
+*.xlsx
+*.xls
+data/*.xlsx
+data/*.7z
